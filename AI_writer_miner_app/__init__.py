@@ -1,0 +1,2 @@
+from AI_writer_miner_app import chrome_control
+from AI_writer_miner_app import generate
